@@ -1,0 +1,25 @@
+{
+  "name": "dapper-net-automation",
+  "version": "0.1.0",
+  "description": "tests and sql automation for use with dapper-net and dapper-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cchamberlain/dapper-net-automation.git"
+  },
+  "keywords": [
+    "dapper",
+    ".NET",
+    "sql",
+    "automation"
+  ],
+  "author": "Cole Chamberlain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cchamberlain/dapper-net-automation/issues"
+  },
+  "homepage": "https://github.com/cchamberlain/dapper-net-automation#readme"
+}
