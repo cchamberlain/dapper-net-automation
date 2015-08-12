@@ -1,17 +1,16 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$id$</id>
-    <version>$version$</version>
-    <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
-    <licenseUrl>https://raw.githubusercontent.com/cchamberlain/dapper-net-automation/master/LICENSE</licenseUrl>
-    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <id>dapper.net.automation</id>
+    <version>0.1.1</version>
+    <title>dapper-net-automation</title>
+    <authors>Cole Chamberlain</authors>
+    <owners>Cole Chamberlain</owners>
+    <licenseUrl>https://github.com/cchamberlain/dapper-net-automation/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/cchamberlain/dapper-net-automation></projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <description>automation, performance, race and test extensions for dapper-net / dapper-js node project.</description>
+    <releaseNotes>Initial release, not much to see here (WIP).</releaseNotes>
     <copyright>Copyright 2015</copyright>
     <tags>dapper-js dapper-net SQL automation node</tags>
   </metadata>
